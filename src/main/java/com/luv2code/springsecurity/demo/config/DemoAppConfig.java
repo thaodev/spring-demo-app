@@ -7,6 +7,7 @@ import org.springframework.web.servlet.ViewResolver;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
+//Step2: Create Spring App Configuration
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages="com.luv2code.springsecurity.demo")
